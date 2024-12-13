@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattFordd
 - 👀 I’m interested in ... Games Programming (C++ w/ Unreal Engine && C# w/ Unity)
-- 🌱 I’m currently learning ... Computer Science (BSc Hons)
+- 🌱 I’m currently learning ... AI and Adaptive Systems (MSc)
 - 💞️ I’m looking to collaborate on ... Video Game Projects
 - 📫 How to reach me ... matthewford912@gmail.com
 
