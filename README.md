@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattFordd
-- 👀 I’m interested in ... Games Programming (C++ w/ Unreal Engine && C# w/ Unity)
-- 🌱 I’m currently learning ... Game Engine Architecture
-- 💞️ I’m looking to collaborate on ... Video Game Projects
+- 👀 I’m interested in ... AI Development
+- 🌱 I’m currently learning ... Neural Network Architecture
+- 💞️ I’m looking to collaborate on ... AI Projects
 - 📫 How to reach me ... matthewford.co.uk
 
 <!---
